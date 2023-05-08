@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myresume';
+  name = "Anushka";
+  student = {
+    "rno":1,"name":"abc"
+  }
 }
